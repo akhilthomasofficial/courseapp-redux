@@ -1,0 +1,56 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Course 1",
+      "description": "Description for Course 1"
+    },
+    {
+      "id": 2,
+      "title": "Course 2",
+      "description": "Description for Course 2"
+    },
+    {
+      "id": 2,
+      "title": "Course 3",
+      "description": "Description for Course 3"
+    },
+    {
+      "id": 2,
+      "title": "Course 4",
+      "description": "Description for Course 4"
+    },
+    {
+      "id": 2,
+      "title": "Course 5",
+      "description": "Description for Course 5"
+    }
+  ],
+  "enquiries": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "courseName": "Course 2"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "courseName": "Course 1"
+    },
+    {
+      "name": "Akhil Thomas",
+      "courseName": "Course 2",
+      "id": 3
+    },
+    {
+      "name": "Akhil Thomas",
+      "courseName": "Course 1",
+      "id": 4
+    },
+    {
+      "name": "Dijo Jose",
+      "courseName": "Course 2",
+      "id": 5
+    }
+  ]
+}
